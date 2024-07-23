@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0824d30a-eb90-4eac-b4d0-f648d4698b3f" name="Changes" comment="" />
+    <list default="true" id="0824d30a-eb90-4eac-b4d0-f648d4698b3f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FStoCED.py" beforeDir="false" afterPath="$PROJECT_DIR$/FStoCED.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -95,6 +98,7 @@
       <workItem from="1721240788409" duration="4870000" />
       <workItem from="1721671060199" duration="14498000" />
       <workItem from="1721762040014" duration="77000" />
+      <workItem from="1721762333094" duration="442000" />
     </task>
     <servers />
   </component>
@@ -124,6 +128,6 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Python_Genealogy$FStoCED.coverage" NAME="FStoCED Coverage Results" MODIFIED="1721744140709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Genealogy$FStoCED.coverage" NAME="FStoCED Coverage Results" MODIFIED="1721762540280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

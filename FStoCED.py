@@ -76,4 +76,6 @@ print('DataFrame is written to Excel File successfully.')
 # You can now work with the merged_data DataFrame as needed.
 
 for index, row in merged_data.iterrows():
-    print(row['relationshipToHead'], row['fullName'])
+    fn = row['fullName']
+    names = fn.split(";")
+    print(row['relationshipToHead'], names)
